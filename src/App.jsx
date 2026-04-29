@@ -79,7 +79,7 @@ function App() {
           </p>
 
           <p>
-            ✨ No Side Effects | 🌿 100% Natural | ⚡ Fast Result Experience
+            ✨ No Side Effects | 🌿 100% Natural | ⚡ Boost Energy
           </p>
 
           <div className="hero-btns">
@@ -168,7 +168,7 @@ function App() {
           </p>
 
           <div className="guru-stats">
-            <div>✨ 20+ Years Experience</div>
+            <div>✨ 30+ Years Experience</div>
             <div>👥 5000+ Happy Students</div>
             <div>🌿 100% Natural Healing</div>
           </div>
