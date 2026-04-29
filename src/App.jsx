@@ -12,8 +12,8 @@ function App() {
   const [submitted, setSubmitted] = useState(false);
 
   const handleChange = (e) => {
-    setFormData({ ...formData, [e.target.placeholder]: e.target.value });
-  };
+  setFormData({ ...formData, [e.target.name]: e.target.value });
+};
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -181,9 +181,9 @@ function App() {
           <h2>Ab Apni Healing Journey Start Karein</h2>
 
           <form onSubmit={handleSubmit}>
-            <input type="text" placeholder="name" onChange={handleChange} required />
-            <input type="text" placeholder="number" onChange={handleChange} required />
-            <input type="text" placeholder="city" onChange={handleChange} required />
+  <input type="text" name="name" placeholder="Your Name" onChange={handleChange} required />
+  <input type="text" name="number" placeholder="Mobile Number" onChange={handleChange} required />
+  <input type="text" name="city" placeholder="City" onChange={handleChange} required />
 
             <button type="submit">Register Now</button>
           </form>
