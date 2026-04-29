@@ -117,6 +117,12 @@ function App() {
             Water Healing Therapy isi blockage ko remove karti hai aur body ko apni natural healing mode me le aati hai.
           </p>
 
+          <p>
+            इस विशेष वेबिनार में आपको बताया जाएगा कि कैसे
+            वैदिक विज्ञान और जल की शक्ति का उपयोग करके आप
+            अपने जीवन में स्वास्थ्य, शांति और समृद्धि ला सकते हैं 💧
+          </p>
+
           <div className="about-points">
             <div>✔ Body ke energy flow ko balance karta hai</div>
             <div>✔ Stress aur anxiety ko naturally reduce karta hai</div>
@@ -133,23 +139,29 @@ function App() {
       <section className="benefits">
         <h2>Aapko Kin Problems Me Help Milegi?</h2>
 
-        <p style={{ marginTop: "10px" }}>
-          Agar aap inme se kisi bhi problem se pareshan hain, to yeh therapy aapke liye bohot beneficial ho sakti hai:
-        </p>
+        
 
         <div className="benefit-grid">
-          <div>✔ Stress & Anxiety (mann shaant hota hai)</div>
-          <div>✔ Hormonal Imbalance (body balance hoti hai)</div>
-          <div>✔ Thyroid Problems</div>
-          <div>✔ Body Pain & Joint Pain</div>
-          <div>✔ Sleep Problems (neend improve hoti hai)</div>
-          <div>✔ Low Energy & Weakness</div>
-          <div>✔ Digestion Issues</div>
-          <div>✔ Skin & Hair Problems</div>
+          <div>✔️ प्राकृतिक तरीके से शरीर को स्वस्थ रखने की तकनीक</div>
+          <div>✔️ Water Healing के माध्यम से रोगों को कम करने के उपाय</div>
+          <div>✔️ वात, पित्त, कफ संतुलन की वैदिक विधियाँ</div>
+          <div>✔️ शरीर की healing power को activate करने के तरीके</div>
+          <div>✔️ मानसिक शांति और सकारात्मक ऊर्जा बढ़ाने के उपाय</div>
+          <div>✔️ स्वास्थ्य के साथ-साथ आर्थिक उन्नति के वैदिक रहस्य</div>
+          <div>✔️ Digestion Issues</div>
+          <div>✔️ Skin & Hair Problems</div>
         </div>
 
         <p style={{ marginTop: "20px" }}>
           ✨ Regular practice se aapko mental clarity, emotional stability aur physical energy me noticeable improvement milega.
+        </p>
+        <p>
+          👉 यह सिर्फ एक वेबिनार नहीं, बल्कि एक
+Life Transformation Experience है
+
+🧘‍♂️ प्राकृतिक उपचार
+🧠 मानसिक संतुलन
+💰 जीवन में समृद्धि
         </p>
       </section>
 
@@ -163,8 +175,9 @@ function App() {
           <h2>Swami Bhakti Parkash Ji</h2>
 
           <p>
-            Swami Bhakti Parkash Ji ek renowned healer aur spiritual guide hain 
-            jo natural healing aur energy science me expert hain.
+          बाबा स्वामी भक्ति प्रकाश जी अखिल भारत वर्षीय धर्म संघ, करपात्री फाउंडेशन से संबद्ध प्रतिष्ठित संत हैं। विगत 30 वर्षों से “योगी–निरोगी–उपयोगी” सूत्र पर आधारित साधना, अध्ययन एवं समाज सेवा में निरंतर सक्रिय हैं।
+
+          आप अथर्ववेद आधारित शाश्वत चिकित्सा के गहन ज्ञाता एवं मर्मज्ञ हैं। शारीरिक, मानसिक एवं आध्यात्मिक स्वास्थ्य हेतु समाज सेवा में समर्पित हैं।
           </p>
 
           <div className="guru-stats">
