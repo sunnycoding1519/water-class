@@ -18,7 +18,7 @@ function App() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    await fetch("https://script.google.com/macros/s/AKfycbzsIeSZsedbj-PtTlPkSPZ2NgvY2xrI2LnOAikQF9yHT8AkYWY6rmxxI69VMKiSoyy0bw/exec", {
+    await fetch("https://script.google.com/macros/s/AKfycbwXwkkdiuiw5Hru_LeQAygovWylhVs2KRO30cxnkr56qeT3RusnsHgh_VdbFpiCnnKp/exec", {
       method: "POST",
       mode: "no-cors",
       body: JSON.stringify(formData)
